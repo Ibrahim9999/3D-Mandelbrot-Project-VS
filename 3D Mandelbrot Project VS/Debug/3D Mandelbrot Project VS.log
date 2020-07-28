@@ -1,0 +1,96 @@
+﻿  camera.c
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(56,53): warning C4459: declaration of 'horizontalAxis' hides global declaration
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(29,14): message : see declaration of 'horizontalAxis'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(56,76): warning C4459: declaration of 'verticalAxis' hides global declaration
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(30,14): message : see declaration of 'verticalAxis'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(56,97): warning C4459: declaration of 'depthAxis' hides global declaration
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(31,14): message : see declaration of 'depthAxis'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(137,21): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(153,18): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(155,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(159,21): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(161,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(165,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(167,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(206,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(208,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(129,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(130,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(329,34): warning C4244: 'function': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(329,48): warning C4244: 'function': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(330,33): warning C4244: 'function': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(330,47): warning C4244: 'function': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(331,41): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(331,55): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(273,23): warning C4100: 'filename': unreferenced formal parameter
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(276,11): warning C4101: 'file': unreferenced local variable
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(348,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(349,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(359,74): warning C4459: declaration of 'vfov' hides global declaration
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(45,20): message : see declaration of 'vfov'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(359,74): warning C4459: declaration of 'hfov' hides global declaration
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(45,14): message : see declaration of 'hfov'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(359,74): warning C4459: declaration of 'cameradist' hides global declaration
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(46,14): message : see declaration of 'cameradist'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(360,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(361,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(365,61): warning C4459: declaration of 'vfov' hides global declaration
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(45,20): message : see declaration of 'vfov'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(365,61): warning C4459: declaration of 'hfov' hides global declaration
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\camera.c(45,14): message : see declaration of 'hfov'
+  command.c
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\command.c(32,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\command.c(38,57): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  main.c
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(27,70): warning C4244: 'function': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(27,84): warning C4244: 'function': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(40,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(76,51): warning C4100: 'y': unreferenced formal parameter
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(76,44): warning C4100: 'x': unreferenced formal parameter
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(128,53): warning C4100: 'y': unreferenced formal parameter
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(128,46): warning C4100: 'x': unreferenced formal parameter
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(128,37): warning C4100: 'key': unreferenced formal parameter
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(175,56): warning C4244: 'function': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(175,70): warning C4244: 'function': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(256,56): warning C4244: 'function': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(256,70): warning C4244: 'function': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(268,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(288,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(310,36): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(310,50): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(318,27): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\main.c(319,22): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  shader.c
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(152,31): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(152,38): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(152,45): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(153,43): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(153,56): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(153,69): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(154,35): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(154,44): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(154,53): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(160,45): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(160,59): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(162,41): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(162,53): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(162,65): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(164,50): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(164,68): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(164,86): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(165,46): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(165,62): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(165,78): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(166,40): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(166,53): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(166,66): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+  vecmath.c
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\vecmath.c(11,41): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\vecmath.c(108,1): warning C4204: nonstandard extension used: non-constant aggregate initializer
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\vecmath.c(237,82): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\vecmath.c(238,82): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\vecmath.c(239,82): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+  vector.c
+  Generating Code...
+C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\3D Mandelbrot Project VS\shader.c(36): warning C4706: assignment within conditional expression
+  3D Mandelbrot Project VS.vcxproj -> C:\Users\ixmib\source\repos\3D-Mandelbrot-Project-VS\Debug\3D Mandelbrot Project VS.exe
